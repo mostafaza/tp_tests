@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeGrandRestaurant", "LeGrandRestaurant\LeGrandRestaurant.csproj", "{5C2F3A5A-645D-404C-A422-29EFA9FFBE87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeGrandRestaurant.Test", "LeGrandRestaurant.Test\LeGrandRestaurant.Test.csproj", "{8DEDC2CD-321C-48A2-A897-A681870D59E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2F3A5A-645D-404C-A422-29EFA9FFBE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2F3A5A-645D-404C-A422-29EFA9FFBE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2F3A5A-645D-404C-A422-29EFA9FFBE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2F3A5A-645D-404C-A422-29EFA9FFBE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEDC2CD-321C-48A2-A897-A681870D59E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEDC2CD-321C-48A2-A897-A681870D59E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEDC2CD-321C-48A2-A897-A681870D59E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEDC2CD-321C-48A2-A897-A681870D59E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCA2F80-E555-4B54-AA73-BA15D20F86C4}
+	EndGlobalSection
+EndGlobal

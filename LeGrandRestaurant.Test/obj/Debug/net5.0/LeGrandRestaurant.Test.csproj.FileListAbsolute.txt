@@ -1,0 +1,6 @@
+C:\Users\kryza\Documents\Sources\EPSI\LeGrandRestaurant\LeGrandRestaurant.Test\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\kryza\Documents\Sources\EPSI\LeGrandRestaurant\LeGrandRestaurant.Test\obj\Debug\net5.0\LeGrandRestaurant.Test.csproj.AssemblyReference.cache
+C:\Users\kryza\Documents\Sources\EPSI\LeGrandRestaurant\LeGrandRestaurant.Test\obj\Debug\net5.0\LeGrandRestaurant.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryza\Documents\Sources\EPSI\LeGrandRestaurant\LeGrandRestaurant.Test\obj\Debug\net5.0\LeGrandRestaurant.Test.AssemblyInfoInputs.cache
+C:\Users\kryza\Documents\Sources\EPSI\LeGrandRestaurant\LeGrandRestaurant.Test\obj\Debug\net5.0\LeGrandRestaurant.Test.AssemblyInfo.cs
+C:\Users\kryza\Documents\Sources\EPSI\LeGrandRestaurant\LeGrandRestaurant.Test\obj\Debug\net5.0\LeGrandRestaurant.Test.csproj.CoreCompileInputs.cache
